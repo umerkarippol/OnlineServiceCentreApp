@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\github\\OnlineServiceCentreApp-2\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\f40c321c8433e331dcf9fbe56f05b7ef\\transformed\\jetified-play-services-auth-19.2.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\github\\OnlineServiceCentreApp-2\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\f40c321c8433e331dcf9fbe56f05b7ef\\transformed\\jetified-play-services-auth-19.2.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\github\\OnlineServiceCentreApp-2\\build\\sms_autofill\\intermediates\\merged_res\\release\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\caches\\transforms-3\\f40c321c8433e331dcf9fbe56f05b7ef\\transformed\\jetified-play-services-auth-19.2.0\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    }
+]

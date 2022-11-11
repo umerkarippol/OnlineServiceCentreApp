@@ -1,4 +1,7 @@
-#Tue Oct 25 07:20:24 IST 2022
-base.0=C\:\\github\\OnlineServiceCentreApp-1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Tue Nov 08 14:39:06 IST 2022
+base.1=C\:\\Users\\Lenovo\\github\\OnlineServiceCentreApp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.1=classes2.dex
+base.0=C\:\\Users\\Lenovo\\github\\OnlineServiceCentreApp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

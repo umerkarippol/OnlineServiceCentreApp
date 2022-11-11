@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442000180785",
+    "project_id": "online-service-centre-app",
+    "storage_bucket": "online-service-centre-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442000180785:android:0fe7a253d9e130dde87710",
+        "android_client_info": {
+          "package_name": "com.service.onlineservicecentreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442000180785-vsughmbinago2u9gkfrk2fioavl511s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.service.onlineservicecentreapp",
+            "certificate_hash": "4a633242250a0d5aae6fa7ee7d2b7c77001d057d"
+          }
+        },
+        {
+          "client_id": "442000180785-qcl506sdrknq66a9f5e785qkfg6kjmno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4r5nKwr-t9ggqtHcGEjSilBlFlmcz5Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442000180785-qcl506sdrknq66a9f5e785qkfg6kjmno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

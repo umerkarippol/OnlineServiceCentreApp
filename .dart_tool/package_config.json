@@ -141,7 +141,7 @@
     },
     {
       "name": "firebase_core_platform_interface",
-      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.5.2",
+      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
@@ -345,7 +345,7 @@
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.21",
+      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.20",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -489,15 +489,15 @@
     },
     {
       "name": "sqflite",
-      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.2.0+3",
+      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.1.0+1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "sqflite_common",
-      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.4.0+2",
+      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite_common-2.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.16"
     },
     {
       "name": "stack_trace",
@@ -561,7 +561,7 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/win32-3.1.1",
+      "rootUri": "file:///F:/flutter/.pub-cache/hosted/pub.dartlang.org/win32-3.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -584,7 +584,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-11-08T10:43:17.716579Z",
+  "generated": "2022-11-08T16:15:15.695216Z",
   "generator": "pub",
   "generatorVersion": "2.18.1"
 }
